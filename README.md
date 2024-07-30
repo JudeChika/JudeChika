@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JudeChika
-- 👀 I’m interested in being a Full Stack Developer
 - 🌱 I’m a Mobile Application Developmer (Flutter, Java, XML)
 - 💞️ I’m looking to collaborate on mobile app develiopment projects
 - 📫 How to reach me jude2chika@gmail.com, +2349136621524
