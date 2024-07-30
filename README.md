@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JudeChika
 - 👀 I’m interested in being a Full Stack Developer
-- 🌱 I’m currently learning Android Mobile Application Development (Java)
-- 💞️ I’m looking to collaborate on software engineering projects
-- 📫 How to reach me jude2chika@gmail.com, +2347063822906
+- 🌱 I’m a Mobile Application Developmer (Flutter, Java, XML)
+- 💞️ I’m looking to collaborate on mobile app develiopment projects
+- 📫 How to reach me jude2chika@gmail.com, +2349136621524
 
 <!---
 JudeChika/JudeChika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
